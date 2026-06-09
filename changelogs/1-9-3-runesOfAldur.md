@@ -1,5 +1,9 @@
 # Runes of Aldur
 
+## New features ✨
+
+- One-click mod filtering: add or exclude modifiers from search results with + / − buttons on hover
+
 ## Bug fixes 🐛
 
 - Fixes the side panel overlapping the trade site; the page now reserves space on the right so listings stay fully visible
